@@ -1,258 +1,251 @@
-AS      AF      AFG     4       Afghanistan, Islamic Republic of
-EU      AL      ALB     8       Albania, Republic of
-AN      AQ      ATA     10      Antarctica (the territory South of 60 deg S)
-AF      DZ      DZA     12      Algeria, People's Democratic Republic of
-OC      AS      ASM     16      American Samoa
-EU      AD      AND     20      Andorra, Principality of
-AF      AO      AGO     24      Angola, Republic of
-NA      AG      ATG     28      Antigua and Barbuda
-EU      AZ      AZE     31      Azerbaijan, Republic of
-AS      AZ      AZE     31      Azerbaijan, Republic of
-SA      AR      ARG     32      Argentina, Argentine Republic
-OC      AU      AUS     36      Australia, Commonwealth of
-EU      AT      AUT     40      Austria, Republic of
-NA      BS      BHS     44      Bahamas, Commonwealth of the
-AS      BH      BHR     48      Bahrain, Kingdom of
-AS      BD      BGD     50      Bangladesh, People's Republic of
-EU      AM      ARM     51      Armenia, Republic of
-AS      AM      ARM     51      Armenia, Republic of
-NA      BB      BRB     52      Barbados
-EU      BE      BEL     56      Belgium, Kingdom of
-NA      BM      BMU     60      Bermuda
-AS      BT      BTN     64      Bhutan, Kingdom of
-SA      BO      BOL     68      Bolivia, Republic of
-EU      BA      BIH     70      Bosnia and Herzegovina
-AF      BW      BWA     72      Botswana, Republic of
-AN      BV      BVT     74      Bouvet Island (Bouvetoya)
-SA      BR      BRA     76      Brazil, Federative Republic of
-NA      BZ      BLZ     84      Belize
-AS      IO      IOT     86      British Indian Ocean Territory (Chagos Archipelago)
-OC      SB      SLB     90      Solomon Islands
-NA      VG      VGB     92      British Virgin Islands
-AS      BN      BRN     96      Brunei Darussalam
-EU      BG      BGR     100     Bulgaria, Republic of
-AS      MM      MMR     104     Myanmar, Union of
-AF      BI      BDI     108     Burundi, Republic of
-EU      BY      BLR     112     Belarus, Republic of
-AS      KH      KHM     116     Cambodia, Kingdom of
-AF      CM      CMR     120     Cameroon, Republic of
-NA      CA      CAN     124     Canada
-AF      CV      CPV     132     Cape Verde, Republic of
-NA      KY      CYM     136     Cayman Islands
-AF      CF      CAF     140     Central African Republic
-AS      LK      LKA     144     Sri Lanka, Democratic Socialist Republic of
-AF      TD      TCD     148     Chad, Republic of
-SA      CL      CHL     152     Chile, Republic of
-AS      CN      CHN     156     China, People's Republic of
-AS      TW      TWN     158     Taiwan
-AS      CX      CXR     162     Christmas Island
-AS      CC      CCK     166     Cocos (Keeling) Islands
-SA      CO      COL     170     Colombia, Republic of
-AF      KM      COM     174     Comoros, Union of the
-AF      YT      MYT     175     Mayotte
-AF      CG      COG     178     Congo, Republic of the
-AF      CD      COD     180     Congo, Democratic Republic of the
-OC      CK      COK     184     Cook Islands
-NA      CR      CRI     188     Costa Rica, Republic of
-EU      HR      HRV     191     Croatia, Republic of
-NA      CU      CUB     192     Cuba, Republic of
-EU      CY      CYP     196     Cyprus, Republic of
-AS      CY      CYP     196     Cyprus, Republic of
-EU      CZ      CZE     203     Czech Republic
-AF      BJ      BEN     204     Benin, Republic of
-EU      DK      DNK     208     Denmark, Kingdom of
-NA      DM      DMA     212     Dominica, Commonwealth of
-NA      DO      DOM     214     Dominican Republic
-SA      EC      ECU     218     Ecuador, Republic of
-NA      SV      SLV     222     El Salvador, Republic of
-AF      GQ      GNQ     226     Equatorial Guinea, Republic of
-AF      ET      ETH     231     Ethiopia, Federal Democratic Republic of
-AF      ER      ERI     232     Eritrea, State of
-EU      EE      EST     233     Estonia, Republic of
-EU      FO      FRO     234     Faroe Islands
-SA      FK      FLK     238     Falkland Islands (Malvinas)
-AN      GS      SGS     239     South Georgia and the South Sandwich Islands
-OC      FJ      FJI     242     Fiji, Republic of the Fiji Islands
-EU      FI      FIN     246     Finland, Republic of
-EU      AX      ALA     248     Åland Islands
-EU      FR      FRA     250     France, French Republic
-SA      GF      GUF     254     French Guiana
-OC      PF      PYF     258     French Polynesia
-AN      TF      ATF     260     French Southern Territories
-AF      DJ      DJI     262     Djibouti, Republic of
-AF      GA      GAB     266     Gabon, Gabonese Republic
-EU      GE      GEO     268     Georgia
-AS      GE      GEO     268     Georgia
-AF      GM      GMB     270     Gambia, Republic of the
-AS      PS      PSE     275     Palestinian Territory, Occupied
-EU      DE      DEU     276     Germany, Federal Republic of
-AF      GH      GHA     288     Ghana, Republic of
-EU      GI      GIB     292     Gibraltar
-OC      KI      KIR     296     Kiribati, Republic of
-EU      GR      GRC     300     Greece, Hellenic Republic
-NA      GL      GRL     304     Greenland
-NA      GD      GRD     308     Grenada
-NA      GP      GLP     312     Guadeloupe
-OC      GU      GUM     316     Guam
-NA      GT      GTM     320     Guatemala, Republic of
-AF      GN      GIN     324     Guinea, Republic of
-SA      GY      GUY     328     Guyana, Co-operative Republic of
-NA      HT      HTI     332     Haiti, Republic of
-AN      HM      HMD     334     Heard Island and McDonald Islands
-EU      VA      VAT     336     Holy See (Vatican City State)
-NA      HN      HND     340     Honduras, Republic of
-AS      HK      HKG     344     Hong Kong, Special Administrative Region of China
-EU      HU      HUN     348     Hungary, Republic of
-EU      IS      ISL     352     Iceland, Republic of
-AS      IN      IND     356     India, Republic of
-AS      ID      IDN     360     Indonesia, Republic of
-AS      IR      IRN     364     Iran, Islamic Republic of
-AS      IQ      IRQ     368     Iraq, Republic of
-EU      IE      IRL     372     Ireland
-AS      IL      ISR     376     Israel, State of
-EU      IT      ITA     380     Italy, Italian Republic
-AF      CI      CIV     384     Cote d'Ivoire, Republic of
-NA      JM      JAM     388     Jamaica
-AS      JP      JPN     392     Japan
-EU      KZ      KAZ     398     Kazakhstan, Republic of
-AS      KZ      KAZ     398     Kazakhstan, Republic of
-AS      JO      JOR     400     Jordan, Hashemite Kingdom of
-AF      KE      KEN     404     Kenya, Republic of
-AS      KP      PRK     408     Korea, Democratic People's Republic of
-AS      KR      KOR     410     Korea, Republic of
-AS      KW      KWT     414     Kuwait, State of
-AS      KG      KGZ     417     Kyrgyz Republic
-AS      LA      LAO     418     Lao People's Democratic Republic
-AS      LB      LBN     422     Lebanon, Lebanese Republic
-AF      LS      LSO     426     Lesotho, Kingdom of
-EU      LV      LVA     428     Latvia, Republic of
-AF      LR      LBR     430     Liberia, Republic of
-AF      LY      LBY     434     Libyan Arab Jamahiriya
-EU      LI      LIE     438     Liechtenstein, Principality of
-EU      LT      LTU     440     Lithuania, Republic of
-EU      LU      LUX     442     Luxembourg, Grand Duchy of
-AS      MO      MAC     446     Macao, Special Administrative Region of China
-AF      MG      MDG     450     Madagascar, Republic of
-AF      MW      MWI     454     Malawi, Republic of
-AS      MY      MYS     458     Malaysia
-AS      MV      MDV     462     Maldives, Republic of
-AF      ML      MLI     466     Mali, Republic of
-EU      MT      MLT     470     Malta, Republic of
-NA      MQ      MTQ     474     Martinique
-AF      MR      MRT     478     Mauritania, Islamic Republic of
-AF      MU      MUS     480     Mauritius, Republic of
-NA      MX      MEX     484     Mexico, United Mexican States
-EU      MC      MCO     492     Monaco, Principality of
-AS      MN      MNG     496     Mongolia
-EU      MD      MDA     498     Moldova, Republic of
-EU      ME      MNE     499     Montenegro, Republic of
-NA      MS      MSR     500     Montserrat
-AF      MA      MAR     504     Morocco, Kingdom of
-AF      MZ      MOZ     508     Mozambique, Republic of
-AS      OM      OMN     512     Oman, Sultanate of
-AF      NA      NAM     516     Namibia, Republic of
-OC      NR      NRU     520     Nauru, Republic of
-AS      NP      NPL     524     Nepal, State of
-EU      NL      NLD     528     Netherlands, Kingdom of the
-NA      AN      ANT     530     Netherlands Antilles
-NA      CW      CUW     531     Curaçao
-NA      AW      ABW     533     Aruba
-NA      SX      SXM     534     Sint Maarten (Netherlands)
-NA      BQ      BES     535     Bonaire, Sint Eustatius and Saba
-OC      NC      NCL     540     New Caledonia
-OC      VU      VUT     548     Vanuatu, Republic of
-OC      NZ      NZL     554     New Zealand
-NA      NI      NIC     558     Nicaragua, Republic of
-AF      NE      NER     562     Niger, Republic of
-AF      NG      NGA     566     Nigeria, Federal Republic of
-OC      NU      NIU     570     Niue
-OC      NF      NFK     574     Norfolk Island
-EU      NO      NOR     578     Norway, Kingdom of
-OC      MP      MNP     580     Northern Mariana Islands, Commonwealth of the
-OC      UM      UMI     581     United States Minor Outlying Islands
-NA      UM      UMI     581     United States Minor Outlying Islands
-OC      FM      FSM     583     Micronesia, Federated States of
-OC      MH      MHL     584     Marshall Islands, Republic of the
-OC      PW      PLW     585     Palau, Republic of
-AS      PK      PAK     586     Pakistan, Islamic Republic of
-NA      PA      PAN     591     Panama, Republic of
-OC      PG      PNG     598     Papua New Guinea, Independent State of
-SA      PY      PRY     600     Paraguay, Republic of
-SA      PE      PER     604     Peru, Republic of
-AS      PH      PHL     608     Philippines, Republic of the
-OC      PN      PCN     612     Pitcairn Islands
-EU      PL      POL     616     Poland, Republic of
-EU      PT      PRT     620     Portugal, Portuguese Republic
-AF      GW      GNB     624     Guinea-Bissau, Republic of
-AS      TL      TLS     626     Timor-Leste, Democratic Republic of
-NA      PR      PRI     630     Puerto Rico, Commonwealth of
-AS      QA      QAT     634     Qatar, State of
-AF      RE      REU     638     Reunion
-EU      RO      ROU     642     Romania
-EU      RU      RUS     643     Russian Federation
-AS      RU      RUS     643     Russian Federation
-AF      RW      RWA     646     Rwanda, Republic of
-NA      BL      BLM     652     Saint Barthelemy
-AF      SH      SHN     654     Saint Helena
-NA      KN      KNA     659     Saint Kitts and Nevis, Federation of
-NA      AI      AIA     660     Anguilla
-NA      LC      LCA     662     Saint Lucia
-NA      MF      MAF     663     Saint Martin
-NA      PM      SPM     666     Saint Pierre and Miquelon
-NA      VC      VCT     670     Saint Vincent and the Grenadines
-EU      SM      SMR     674     San Marino, Republic of
-AF      ST      STP     678     Sao Tome and Principe, Democratic Republic of
-AS      SA      SAU     682     Saudi Arabia, Kingdom of
-AF      SN      SEN     686     Senegal, Republic of
-EU      RS      SRB     688     Serbia, Republic of
-AF      SC      SYC     690     Seychelles, Republic of
-AF      SL      SLE     694     Sierra Leone, Republic of
-AS      SG      SGP     702     Singapore, Republic of
-EU      SK      SVK     703     Slovakia (Slovak Republic)
-AS      VN      VNM     704     Vietnam, Socialist Republic of
-EU      SI      SVN     705     Slovenia, Republic of
-AF      SO      SOM     706     Somalia, Somali Republic
-AF      ZA      ZAF     710     South Africa, Republic of
-AF      ZW      ZWE     716     Zimbabwe, Republic of
-EU      ES      ESP     724     Spain, Kingdom of
-AF      SS      SSD     728     South Sudan
-AF      EH      ESH     732     Western Sahara
-AF      SD      SDN     736     Sudan, Republic of
-SA      SR      SUR     740     Suriname, Republic of
-EU      SJ      SJM     744     Svalbard & Jan Mayen Islands
-AF      SZ      SWZ     748     Swaziland, Kingdom of
-EU      SE      SWE     752     Sweden, Kingdom of
-EU      CH      CHE     756     Switzerland, Swiss Confederation
-AS      SY      SYR     760     Syrian Arab Republic
-AS      TJ      TJK     762     Tajikistan, Republic of
-AS      TH      THA     764     Thailand, Kingdom of
-AF      TG      TGO     768     Togo, Togolese Republic
-OC      TK      TKL     772     Tokelau
-OC      TO      TON     776     Tonga, Kingdom of
-NA      TT      TTO     780     Trinidad and Tobago, Republic of
-AS      AE      ARE     784     United Arab Emirates
-AF      TN      TUN     788     Tunisia, Tunisian Republic
-EU      TR      TUR     792     Turkey, Republic of
-AS      TR      TUR     792     Turkey, Republic of
-AS      TM      TKM     795     Turkmenistan
-NA      TC      TCA     796     Turks and Caicos Islands
-OC      TV      TUV     798     Tuvalu
-AF      UG      UGA     800     Uganda, Republic of
-EU      UA      UKR     804     Ukraine
-EU      MK      MKD     807     Macedonia, The Former Yugoslav Republic of
-AF      EG      EGY     818     Egypt, Arab Republic of
-EU      GB      GBR     826     United Kingdom of Great Britain & Northern Ireland
-EU      GG      GGY     831     Guernsey, Bailiwick of
-EU      JE      JEY     832     Jersey, Bailiwick of
-EU      IM      IMN     833     Isle of Man
-AF      TZ      TZA     834     Tanzania, United Republic of
-NA      US      USA     840     United States of America
-NA      VI      VIR     850     United States Virgin Islands
-AF      BF      BFA     854     Burkina Faso
-SA      UY      URY     858     Uruguay, Eastern Republic of
-AS      UZ      UZB     860     Uzbekistan, Republic of
-SA      VE      VEN     862     Venezuela, Bolivarian Republic of
-OC      WF      WLF     876     Wallis and Futuna
-OC      WS      WSM     882     Samoa, Independent State of
-AS      YE      YEM     887     Yemen
-AF      ZM      ZMB     894     Zambia, Republic of
+AS	AF	AFG	4	93 
+EU	AL	ALB	8	355 
+AN	AQ	ATA	10	672 
+AF	DZ	DZA	12	213 
+OC	AS	ASM	16	1 684 
+EU	AD	AND	20	376 
+AF	AO	AGO	24	244 
+NA	AG	ATG	28	1 268 
+AS	AZ	AZE	31	994 
+SA	AR	ARG	32	54 
+OC	AU	AUS	36	61 
+EU	AT	AUT	40	43 
+NA	BS	BHS	44	1 242 
+AS	BH	BHR	48	973 
+AS	BD	BGD	50	880 
+AS	AM	ARM	51	374 
+NA	BB	BRB	52	1 246 
+EU	BE	BEL	56	32 
+NA	BM	BMU	60	1 441 
+AS	BT	BTN	64	975 
+SA	BO	BOL	68	591 
+EU	BA	BIH	70	387 
+AF	BW	BWA	72	267 
+AN	BV	BVT	74
+SA	BR	BRA	76	55 
+NA	BZ	BLZ	84	501 
+AS	IO	IOT	86	 
+OC	SB	SLB	90	677 
+NA	VG	VGB	92	1 284 
+AS	BN	BRN	96	673 
+EU	BG	BGR	100	359 
+AS	MM	MMR	104	95 
+AF	BI	BDI	108	257 
+EU	BY	BLR	112	375 
+AS	KH	KHM	116	855 
+AF	CM	CMR	120	237 
+NA	CA	CAN	124	1 
+AF	CV	CPV	132	238 
+NA	KY	CYM	136	1 345 
+AF	CF	CAF	140	236 
+AS	LK	LKA	144	94 
+AF	TD	TCD	148	235 
+SA	CL	CHL	152	56 
+AS	CN	CHN	156	86 
+AS	TW	TWN	158	886 
+AS	CX	CXR	162	61 
+AS	CC	CCK	166	61 
+SA	CO	COL	170	57 
+AF	KM	COM	174	269 
+AF	YT	MYT	175	262 
+AF	CG	COG	178	242 
+AF	CD	COD	180	243 
+OC	CK	COK	184	682 
+NA	CR	CRI	188
+EU	HR	HRV	191	385 
+NA	CU	CUB	192	53 
+AS	CY	CYP	196	357 
+EU	CZ	CZE	203	420 
+AF	BJ	BEN	204	229 
+EU	DK	DNK	208	45 
+NA	DM	DMA	212	1 767 
+NA	DO	DOM	214	1 809 
+SA	EC	ECU	218	593 
+NA	SV	SLV	222	503 
+AF	GQ	GNQ	226	240 
+AF	ET	ETH	231	251 
+AF	ER	ERI	232	291 
+EU	EE	EST	233	372 
+EU	FO	FRO	234	298 
+SA	FK	FLK	238	500 
+AN	GS	SGS	239
+OC	FJ	FJI	242	679 
+EU	FI	FIN	246	358 
+EU	AX	ALA	248
+EU	FR	FRA	250	33 
+SA	GF	GUF	254
+OC	PF	PYF	258	689 
+AN	TF	ATF	260
+AF	DJ	DJI	262	253 
+AF	GA	GAB	266	241 
+AS	GE	GEO	268	995 
+AF	GM	GMB	270	220 
+AS	PS	PSE	275
+EU	DE	DEU	276	49 
+AF	GH	GHA	288	233 
+EU	GI	GIB	292	350 
+OC	KI	KIR	296	686 
+EU	GR	GRC	300	30 
+NA	GL	GRL	304	299 
+NA	GD	GRD	308	1 473 
+NA	GP	GLP	312
+OC	GU	GUM	316	1 671 
+NA	GT	GTM	320	502 
+AF	GN	GIN	324	224 
+SA	GY	GUY	328	592 
+NA	HT	HTI	332	509 
+AN	HM	HMD	334
+EU	VA	VAT	336	39 
+NA	HN	HND	340	504 
+AS	HK	HKG	344	852 
+EU	HU	HUN	348	36 
+EU	IS	ISL	352
+AS	IN	IND	356	91 
+AS	ID	IDN	360	62 
+AS	IR	IRN	364	98 
+AS	IQ	IRQ	368	964 
+EU	IE	IRL	372	353 
+AS	IL	ISR	376	972 
+EU	IT	ITA	380	39 
+AF	CI	CIV	384	225 
+NA	JM	JAM	388	1 876 
+AS	JP	JPN	392	81 
+AS	KZ	KAZ	398	7 
+AS	JO	JOR	400	962 
+AF	KE	KEN	404	254 
+AS	KP	PRK	408	850 
+AS	KR	KOR	410	82 
+AS	KW	KWT	414	965 
+AS	KG	KGZ	417	996 
+AS	LA	LAO	418	856 
+AS	LB	LBN	422	961 
+AF	LS	LSO	426	266 
+EU	LV	LVA	428	371 
+AF	LR	LBR	430	231 
+AF	LY	LBY	434	218 
+EU	LI	LIE	438	423 
+EU	LT	LTU	440	370 
+EU	LU	LUX	442	352 
+AS	MO	MAC	446	853 
+AF	MG	MDG	450	261 
+AF	MW	MWI	454	265 
+AS	MY	MYS	458	60 
+AS	MV	MDV	462	960 
+AF	ML	MLI	466	223 
+EU	MT	MLT	470	356 
+NA	MQ	MTQ	474
+AF	MR	MRT	478	222 
+AF	MU	MUS	480	230 
+NA	MX	MEX	484	52 
+EU	MC	MCO	492	377 
+AS	MN	MNG	496	976 
+EU	MD	MDA	498	373 
+EU	ME	MNE	499	382 
+NA	MS	MSR	500	1 664 
+AF	MA	MAR	504	212 
+AF	MZ	MOZ	508	258 
+AS	OM	OMN	512	968 
+AF	NA	NAM	516	264 
+OC	NR	NRU	520	674 
+AS	NP	NPL	524	977 
+EU	NL	NLD	528	31 
+NA	AN	ANT	530	599 
+NA	CW	CUW	531
+NA	AW	ABW	533	297 
+NA	SX	SXM	534
+NA	BQ	BES	535
+OC	NC	NCL	540	687 
+OC	VU	VUT	548	678 
+OC	NZ	NZL	554	64 
+NA	NI	NIC	558	505 
+AF	NE	NER	562	227 
+AF	NG	NGA	566	234 
+OC	NU	NIU	570	683 
+OC	NF	NFK	574	672 
+EU	NO	NOR	578	47 
+OC	MP	MNP	580	1 670 
+NA	UM	UMI	581
+OC	FM	FSM	583	691 
+OC	MH	MHL	584	692 
+OC	PW	PLW	585	680 
+AS	PK	PAK	586	92 
+NA	PA	PAN	591	507 
+OC	PG	PNG	598	675 
+SA	PY	PRY	600	595 
+SA	PE	PER	604	51 
+AS	PH	PHL	608	63 
+OC	PN	PCN	612	870 
+EU	PL	POL	616	48 
+EU	PT	PRT	620	351 
+AF	GW	GNB	624	245 
+AS	TL	TLS	626	670 
+NA	PR	PRI	630	1 
+AS	QA	QAT	634	974 
+AF	RE	REU	638
+EU	RO	ROU	642	40 
+AS	RU	RUS	643	7 
+AF	RW	RWA	646	250 
+NA	BL	BLM	652	590 
+AF	SH	SHN	654	290 
+NA	KN	KNA	659	1 869 
+NA	AI	AIA	660	1 264 
+NA	LC	LCA	662	1 758 
+NA	MF	MAF	663	1 599 
+NA	PM	SPM	666	508 
+NA	VC	VCT	670	1 784 
+EU	SM	SMR	674	378 
+AF	ST	STP	678	239 
+AS	SA	SAU	682	966 
+AF	SN	SEN	686	221 
+EU	RS	SRB	688	381 
+AF	SC	SYC	690	248 
+AF	SL	SLE	694	232 
+AS	SG	SGP	702	65 
+EU	SK	SVK	703	421 
+AS	VN	VNM	704	84 
+EU	SI	SVN	705	386 
+AF	SO	SOM	706	252 
+AF	ZA	ZAF	710	27 
+AF	ZW	ZWE	716	263 
+EU	ES	ESP	724	34 
+AF	SS	SSD	728
+AF	EH	ESH	732	 
+AF	SD	SDN	736	249 
+SA	SR	SUR	740	597 
+EU	SJ	SJM	744	 
+AF	SZ	SWZ	748	268 
+EU	SE	SWE	752	46 
+EU	CH	CHE	756	41 
+AS	SY	SYR	760	963 
+AS	TJ	TJK	762	992 
+AS	TH	THA	764	66 
+AF	TG	TGO	768	228 
+OC	TK	TKL	772	690 
+OC	TO	TON	776	676 
+NA	TT	TTO	780	1 868 
+AS	AE	ARE	784	971 
+AF	TN	TUN	788	216 
+AS	TR	TUR	792	90 
+AS	TM	TKM	795	993 
+NA	TC	TCA	796	1 649 
+OC	TV	TUV	798	688 
+AF	UG	UGA	800	256 
+EU	UA	UKR	804	380 
+EU	MK	MKD	807	389 
+AF	EG	EGY	818	20 
+EU	GB	GBR	826	44 
+EU	GG	GGY	831
+EU	JE	JEY	832	 
+EU	IM	IMN	833	44 
+AF	TZ	TZA	834	255 
+NA	US	USA	840	1 
+NA	VI	VIR	850	1 340 
+AF	BF	BFA	854	226 
+SA	UY	URY	858	598 
+AS	UZ	UZB	860	998 
+SA	VE	VEN	862	58 
+OC	WF	WLF	876	681 
+OC	WS	WSM	882	685 
+AS	YE	YEM	887	967 
+AF	ZM	ZMB	894	260 
+AS	XS		

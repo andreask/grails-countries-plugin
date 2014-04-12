@@ -48,19 +48,22 @@ class CountriesBootStrap {
 
         def countries = getResourceAsStream(servletContext, "countries.csv").text
         countries.eachLine { line ->
-            def fields = line.tokenize()
+            def fields = line.tokenize("\t")
             log.debug "importing: $fields"
-
-            def country = Country.findOrSaveWhere(
-                    iso3166Number: fields[3],
-                    domain: domains.get(fields[3], null),
-                    shortKey: fields[1],
-                    key: fields[2],
-                    capital: capitals.get(fields[3], null)
-            )
-            country.addToContinents(Continent.findByKey(fields[0]))
-
-            log.debug "imported ${country.dump()}"
+			
+			if (fields[2]) {
+				def country = new Country(iso3166Number: fields[3],
+	                    domain: domains.get(fields[3], null),
+	                    shortKey: fields[1],
+	                    key: fields[2],
+	                    capital: capitals.get(fields[3], null),
+						phoneCountryCode: fields[4])
+				country.save()
+				
+				country.addToContinents(Continent.findByKey(fields[0]))
+	
+				log.debug "imported ${country.dump()}"
+			}
         }
         log.info "imported ${Country.count()} countries"
     }

@@ -1,5 +1,6 @@
 plugin.xml
 target
+target-eclipse
 *.log
 *.iws
 *.zip
@@ -9,3 +10,6 @@ web-app/js
 prodDb.*
 *.ipr
 *.iml
+.settings
+.project
+.classpath

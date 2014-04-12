@@ -1,6 +1,6 @@
 package grails.plugins.countries
 
-import grails.plugin.spock.IntegrationSpec
+import grails.test.spock.IntegrationSpec
 import spock.lang.Unroll
 
 /**
